@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  # name   : "Adeline Fermanian"
+  # name   : "Othmane ZARHALI"
   avatar : "/assets/images/webpagephotoOthmaneZARHALI.jpg"
-  bio    : "PhD candidate at CEREMADE Université Paris Dauphine."
+  bio    : ""
   location : "Paris, France"
   links:
     - label: "Email"
