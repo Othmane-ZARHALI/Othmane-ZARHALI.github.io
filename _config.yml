@@ -60,7 +60,7 @@ plugins:
 author:
   # name   : "Adeline Fermanian"
   avatar : "/assets/images/webpagephotoOthmaneZARHALI.jpg"
-  bio    : "PhD candidate at CEREMADE, Université Paris Dauphine."
+  bio    : "I am a PhD candidate interested in theoretical machine learning."
   location : "Paris, France"
   links:
     - label: "Email"
