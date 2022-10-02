@@ -17,7 +17,7 @@ title: Othmane ZARHALI
 email: othmane.zarhali@dauphine.eu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website!
-url: https://othmane-zarhali.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://afermanian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 twitter_username: OthmaneZARHALI
 github_username: Othmane-ZARHALI
 minimal_mistakes_skin: dirt
@@ -59,37 +59,43 @@ plugins:
 
 author:
   # name   : "Adeline Fermanian"
-  avatar : "/assets/images/webpagephotoOthmaneZARHALI.jpg"
+  avatar : "/assets/images/photoprofil.jpg"
   bio    : "PhD candidate at CEREMADE, Université Paris Dauphine"
   location : "Paris, France"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:othmane.zarhali[at]dauphine[dot]eu"
+      url: "mailto:adeline.fermanian[at]mines-paristech[dot]fr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Othmane-ZARHALI"
+      url: "https://github.com/afermanian"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/othmane-zarhali-a82b31106/"
+      url: "https://www.linkedin.com/in/adelinefermanian/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/OthmaneZARHALI"
+      url: "https://twitter.com/AdelineFermani1"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:othmane.zarhali[at]dauphine[dot]eu"
+      url: "mailto:adeline.fermanian[at]mines-paristech[dot]fr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Othmane-ZARHALI"
+      url: "https://github.com/afermanian"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/othmane-zarhali-a82b31106/"
+      url: "https://www.linkedin.com/in/adelinefermanian/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/OthmaneZARHALI"
+      url: "https://twitter.com/AdelineFermani1"
 
 defaults:
   # _posts
