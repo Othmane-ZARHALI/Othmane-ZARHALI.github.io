@@ -60,7 +60,7 @@ plugins:
 author:
   # name   : "Othmane ZARHALI"
   avatar : "/assets/images/webpagephotoOthmaneZARHALI.jpg"
-  bio    : "PhD candidate at Université Paris Dauphine"
+  bio    : "PhD candidate at CEREMADE, Universite Paris Dauphine"
   location : "Paris, France"
   links:
     - label: "Email"
