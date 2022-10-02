@@ -4,7 +4,7 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "Experience"
-    url: /experience/
-  - title: "Contact"
-    url: /contact/
+  - title: "Talks & events"
+    url: /talks/
+  - title: "Teaching"
+    url: /teaching/
