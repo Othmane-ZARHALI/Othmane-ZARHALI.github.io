@@ -59,8 +59,8 @@ plugins:
 
 author:
   # name   : "Adeline Fermanian"
-  avatar : "/assets/images/photoprofil.jpg"
-  bio    : "I am a postdoctoral researcher interested in theoretical machine learning."
+  avatar : "/assets/images/webpagephotoOthmaneZARHALI.jpg"
+  bio    : "PhD candidate at CEREMADE, Université Paris Dauphine"
   location : "Paris, France"
   links:
     - label: "Email"
