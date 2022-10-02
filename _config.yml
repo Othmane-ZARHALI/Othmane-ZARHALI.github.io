@@ -65,7 +65,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:othmane.zarhali[at]dauphine[dot]eu"
+      url: "mailto:othmane.zarhali@dauphine.eu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Othmane-ZARHALI"
@@ -83,7 +83,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:othmane.zarhali[at]dauphine[dot]eu"
+      url: "mailto:othmane.zarhali@dauphine.eu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Othmane-ZARHALI"
