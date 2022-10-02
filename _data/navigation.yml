@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Experience"
+    url: /experience/
+  - title: "Contact"
+    url: /contact/
