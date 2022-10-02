@@ -8,9 +8,9 @@ classes: wide
 ## Msc thesis
 
 * **Local volatility models with stochastic interest rates**. Zarhali, O.(2019)  
-* Master thesis
+- Master thesis
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/MasterThesisElKarouiOthmaneZARHALI.pdf){: .btn}
-* Slides 
+- Slides 
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/FinalpresentationInternFINASTRAOthmaneZARHALI.pdf){: .btn}
 
 ## Technical reports
