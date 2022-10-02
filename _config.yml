@@ -60,7 +60,7 @@ plugins:
 author:
   # name   : "Adeline Fermanian"
   avatar : "/assets/images/webpagephotoOthmaneZARHALI.jpg"
-  bio    : "I am a PhD candidate interested in theoretical machine learning."
+  bio    : "PhD candidate interested in theoretical machine learning."
   location : "Paris, France"
   links:
     - label: "Email"
