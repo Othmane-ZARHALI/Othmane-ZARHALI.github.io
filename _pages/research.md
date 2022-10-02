@@ -7,20 +7,21 @@ classes: wide
 
 ## Msc thesis
 
-* **Master thesis.**(2019)  
+* **Local volatility models with stochastic interest rates**. Zarhali, O.(2019)  
+* Master thesis
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/MasterThesisElKarouiOthmaneZARHALI.pdf){: .btn}
-* **Slides.**(2019)  
+* Slides.**(2019)  
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/FinalpresentationInternFINASTRAOthmaneZARHALI.pdf){: .btn}
 
 ## Technical reports
 
-* **Stochastic local volatility models**.  (2019)   
+* **Stochastic local volatility models**. Zarhali, O.  (2019)   
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.baseurl }}/assets/docs/localstochasticvolatilitymodels.pdf){: .btn}
 
-* **Multiscale Orenstein Uhlenbeck model**.  (2019)   
+* **Multiscale Orenstein Uhlenbeck model**. Zarhali, O.  (2019)   
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.baseurl }}/assets/docs/MultiscaleOrensteinUhlenbeckmodel.pdf){: .btn}
 
-* **Credit spread curve construction methods**.  (2019)   
+* **Credit spread curve construction methods** . Zarhali, O.  (2019)   
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.baseurl }}/assets/docs/Creditspreadcurveconstruction.pdf){: .btn}
 
 
